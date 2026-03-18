@@ -20,7 +20,7 @@
 - How to reach me : [email](mailto:alex.degallaix@gmail.com)
   
 ### My porfolio
-- [www.alexdegallaix.com](https://www.bm-entertainment.com)
+- [www.alexdegallaix.com](https://alexdegallaix.com)
 <!---
 /AlexDglx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
