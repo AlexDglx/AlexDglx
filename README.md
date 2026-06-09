@@ -16,9 +16,6 @@
 #### Perspective
 - sharpening my skills for future business ventures
 
-#### Contact
-- How to reach me : [email](mailto:alex.degallaix@gmail.com)
-  
 ### My porfolio
 - [www.alexdegallaix.com](https://alexdegallaix.com)
 <!---
